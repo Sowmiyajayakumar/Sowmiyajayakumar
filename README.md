@@ -1,4 +1,4 @@
-# Sowmiya Jayakumar 👩🏻‍💻
+# Sowmiya 👩🏻‍💻
 **`Developer`**
 <p>I'm Sowmiya, a passionate Java full stack developer with 2 years of experience in the IT industry. I have strong expertise in Java, Spring Boot, React, and Angular, and I'm driven by the challenge of solving business problems through clean, high-quality code.</p>
 
